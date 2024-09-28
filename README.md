@@ -1,3 +1,3 @@
 # Amazon-Clone
 
-https://github.com/aashiydv/Amazon-Clone.git
+https://aashiydv.github.io/Amazon-Clone
